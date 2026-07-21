@@ -1,0 +1,7 @@
+const isOnline = false;
+if(!isOnline){
+    console.log("User is offline");
+}
+else{
+    console.log("User is active");
+}
